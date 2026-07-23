@@ -37,7 +37,7 @@ const SITE_DATA = {
 
     // РЕЗЮМЕ: вставьте сюда прямую ссылку на PDF (например, с Google Drive
     // или Яндекс.Диска — важно, чтобы ссылка вела сразу на скачивание/просмотр файла)
-    resumeLink: "https://drive.google.com/file/d/1WvkAP__VcJYnncAP9h9KL-y0YXt-pz1p/view?usp=sharing",
+    resumeLink: "https://drive.google.com/drive/folders/1eGgffwXEvmtD_Z4EWzszypwiPEN5lWPp?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
   },
 
   /* ------------------------------------------------------------------
